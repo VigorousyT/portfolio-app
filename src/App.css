@@ -83,7 +83,7 @@ textarea {
 }
 
 body {
-  background-color: rgb(245, 240, 240); /* Changes the background*/
+  background-color: rgba(255, 255, 255, 0); /* Changes the background*/
   color: var(--text-color);
 }
 

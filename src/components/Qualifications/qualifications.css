@@ -9,7 +9,7 @@
 .qualification__button {
   font-size: var(--h3-font-size);
   font-weight: var(--font-medium);
-  color: #cccccc;
+  color: rgb(55, 55, 55);
   margin: 0 var(--mb-1);
   cursor: pointer;
 }
@@ -47,20 +47,20 @@
 }
 
 .qualification__title {
-  color: #e5e5e5;
+  color: var(--title-color);
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
 }
 
 .qualification__subtitle {
-  color: #e5e5e5;
+  color: var(--title-color);
   display: inline;
   font-size: var(--small-font-size);
   margin-bottom: var(--mb-1);
 }
 
 .qualification__calender {
-  color: #e5e5e5;
+  color: var(--title-color);
   font-size: var(--small-font-size);
 }
 

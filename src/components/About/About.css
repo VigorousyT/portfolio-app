@@ -37,7 +37,7 @@
 }
 
 .about__box {
-  background-color: rgb(220, 220, 220);
+  background-color: var(--container-color);
   border: 2.5px solid rgba(0, 0, 0, 0.1);
   border-radius: 0.75rem;
   text-align: center;
@@ -97,7 +97,7 @@
 }
 
 .about__description {
-  color: #e5e5e5;
+  color: var(--title-color);
   margin-bottom: var(--mb-2-5);
   padding: 1rem 1rem 0rem 0rem;
   text-align: center;

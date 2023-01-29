@@ -13,11 +13,11 @@
 
 .home__social-icon {
   font-size: 1.8rem;
-  color: rgb(120, 120, 120);
+  color: rgb(60, 60, 60);
 }
 
 .home__social-icon:hover {
-  color: rgb(70, 45, 45);
+  color: rgb(0, 0, 0);
 }
 
 .home__title {
@@ -62,7 +62,7 @@
 }
 
 .home__description {
-  color: #e5e5e5;
+  color: var(--title-color);
   max-width: 400px;
   margin-bottom: var(--mb-3);
 }

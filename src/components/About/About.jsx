@@ -39,7 +39,7 @@ function About() {
                 textAlign: "center",
               }}
             >
-              Put my Gmail account and start a Google chat with me. :--
+              Put my Gmail account and start a Google chat with me :--
               <span style={{ color: "red" }}>Harshyadav082000@gmail.com</span>
             </span>
 
